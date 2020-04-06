@@ -4,4 +4,4 @@
 <p>It supports division multiplication subtraction addition</p>
 <p>Wors with BigInteger<p>
 <br>
-<a href="https://hyperskill.org/projects/38?goal=7">project description on HyperSkill</a>
+<a href="https://hyperskill.org/projects/42?goal=7">project description on HyperSkill</a>
